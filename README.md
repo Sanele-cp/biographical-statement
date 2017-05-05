@@ -1,0 +1,2 @@
+# biographical-statement
+Biographical Statement: Sanele Lionel Khanyile from UKZN-Pietermaritzburg joined NASSP in 2016 under the Post Graduate Bridging Program (UCT). He is now enrolled in the NASSP Honours Program at the UKZN node. His current research project is Interpolation of Surface Impendance for GIC Calculation under the supervision of Dr Pierre Cilliers from SANSA and co-supervision of Dr Zolile Mtumela from UKZN.  Email Address: sanelelionelkhanyile@yahoo.com phone no: 0731264570    willing to learn more programming skills in the computational physics course.
